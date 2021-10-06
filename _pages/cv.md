@@ -17,9 +17,12 @@ Education
 
 Publications
 ======
-* [**NeurIPS 2021**] <u>Yang Sui</u>, Miao Yin, Yi Xie, Huy Phan, Saman Aliari Zonouz, Bo Yuan, "CHIP: CHannel Independence-based Pruning forCompact Neural Networks', Neural Information Processing Systems (NeurIPS), 2021.
-* [**ISCA 2021**] Chunhua Deng, <u>Yang Sui</u>, Siyu Liao, Xuehai Qian and Bo Yuan, "GoSPA: An Energy-efficient High-performance Globally Optimized SParse Convolutional Neural Network Accelerator," 2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA), 2021.
-* [**CVPR 2021**] Miao Yin, <u>Yang Sui</u>, Siyu Liao, Bo Yuan, "Towards Efficient Tensor Decomposition-Based DNN Model Compression With Optimization Framework," Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021.
+Authors with $^*$ signs contribute equally to the papers.
+
+* [**NeurIPS 2021**] <u>Y. Sui</u>, M. Yin, Y. Xie, H. Phan, S. Zonouz, B. Yuan, "CHIP: CHannel Independence-based Pruning forCompact Neural Networks', Neural Information Processing Systems (NeurIPS), 2021.
+* [**ICCAD 2021**] B. Zhang$^*$, <u>Y. Sui$^*$</u>, L. Huang, S. Liao, C. Deng and B. Yuan, “Algorithm and Hardware Co-design for Deep Learning-powered Channel Decoder: A Case Study”, IEEE/ACM Intl. Conf. on Computer Aided Design (ICCAD), 2021. 
+* [**ISCA 2021**] C. Deng, <u>Y. Sui</u>, S. Liao, X. Qian and B. Yuan, "GoSPA: An Energy-efficient High-performance Globally Optimized SParse Convolutional Neural Network Accelerator," 2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA), 2021.
+* [**CVPR 2021**] M. Yin, <u>Y. Sui</u>, S. Liao, B. Yuan, "Towards Efficient Tensor Decomposition-Based DNN Model Compression With Optimization Framework," Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021.
 
 Work experience
 ======
