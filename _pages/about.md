@@ -13,4 +13,4 @@ I'm a PhD student.
 Recent News
 ======
 
-- one paper got accpected
+- one paper is accpected
