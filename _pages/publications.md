@@ -19,7 +19,12 @@ author_profile: true
 
 [comment]: <> ({% endfor %})
 
+Google Scholar
+================
+[Yang Sui](https://scholar.google.com/citations?hl=en&user=Q2W1p6sAAAAJ)
 
+Selected Publications
+================
 
 * [**NeurIPS 2021**] <u>Yang Sui</u>, Miao Yin, Yi Xie, Huy Phan, Saman Aliari Zonouz, Bo Yuan, "CHIP: CHannel Independence-based Pruning for Compact Neural Networks', Neural Information Processing Systems (NeurIPS), 2021, 
 * [**ISCA 2021**] Chunhua Deng, <u>Yang Sui</u>, Siyu Liao, Xuehai Qian and Bo Yuan, "GoSPA: An Energy-efficient High-performance Globally Optimized SParse Convolutional Neural Network Accelerator," 2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA), 2021, pp. 1110-1123.
