@@ -20,51 +20,9 @@ author_profile: true
 [comment]: <> ({% endfor %})
 
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* [**NeurIPS **] Yang Sui, Miao Yin, Yi Xie, Huy Phan, Saman Aliari Zonouz, Bo Yuan, "CHIP: CHannel Independence-based Pruning forCompact Neural Networks', Neural Information Processing Systems (NeurIPS), 2021, 
+* [**ISCA 2021**] Chunhua Deng, Yang Sui, Siyu Liao, Xuehai Qian and Bo Yuan, "GoSPA: An Energy-efficient High-performance Globally Optimized SParse Convolutional Neural Network Accelerator," 2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA), 2021, pp. 1110-1123
+  * [[link]](https://ieeexplore.ieee.org/abstract/document/9499915)
+* [**CVPR 2021**]Miao Yin, Yang Sui, Siyu Liao, Bo Yuan, "Towards Efficient Tensor Decomposition-Based DNN Model Compression With Optimization Framework," Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021, pp. 10674-10683
+  * [[link]](https://openaccess.thecvf.com/content/CVPR2021/html/Yin_Towards_Efficient_Tensor_Decomposition-Based_DNN_Model_Compression_With_Optimization_Framework_CVPR_2021_paper.html)

@@ -11,49 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* B.S. in Dept. of Electronic Science and Engineering, Jilin University, 2016
+* M.S. in Dept. of Electronic Science and Engineering, Jilin University, 2019
+* Ph.D. in Dept. of Electrical and Computer Engineering, Rutgers University, now
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* [**NeurIPS **] Yang Sui, Miao Yin, Yi Xie, Huy Phan, Saman Aliari Zonouz, Bo Yuan, "CHIP: CHannel Independence-based Pruning forCompact Neural Networks', Neural Information Processing Systems (NeurIPS), 2021, 
+* [**ISCA 2021**] Chunhua Deng, Yang Sui, Siyu Liao, Xuehai Qian and Bo Yuan, "GoSPA: An Energy-efficient High-performance Globally Optimized SParse Convolutional Neural Network Accelerator," 2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA), 2021, pp. 1110-1123
+* [**CVPR 2021**]Miao Yin, Yang Sui, Siyu Liao, Bo Yuan, "Towards Efficient Tensor Decomposition-Based DNN Model Compression With Optimization Framework," Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021, pp. 10674-10683
+
+Work experience
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* 03/2018 - 12/2018: Research & Development Enginner in Baidu, Inc.
+  * a founder of [Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite)
+
+* 07/2019 - 01/2020: Algorithm Engineer in JD.com, Inc.
+  * Face recognition.
   
-Teaching
+Teaching Assistant
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2020 Fall: [14:332:351 Programming Methodology II](https://www.ece.rutgers.edu/332351)
+
+[comment]: <> (Service and leadership)
+
+[comment]: <> (======)
+
+[comment]: <> (* Currently signed in to 43 different slack teams)
