@@ -23,10 +23,10 @@ Publications
 
 Work experience
 ======
-* 03/2018 - 12/2018: Research & Development Enginner in Baidu, Inc.
-  * a founder of [Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite)
+* 03/2018 - 12/2018: Research & Development Enginner in ##Baidu##, Inc.
+  * A founder of [Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite).
 
-* 07/2019 - 01/2020: Algorithm Engineer in JD.com, Inc.
+* 07/2019 - 01/2020: Algorithm Engineer in ##JD.com##, Inc.
   * Face recognition.
   
 Teaching Assistant
