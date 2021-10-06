@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Dept. of Electronic Science and Engineering, Jilin University, 2016
+* B.E. in Dept. of Electronic Science and Engineering, Jilin University, 2016
 * M.S. in Dept. of Electronic Science and Engineering, Jilin University, 2019
 * Ph.D. in Dept. of Electrical and Computer Engineering, Rutgers University, now
 
