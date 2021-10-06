@@ -21,7 +21,7 @@ author_profile: true
 
 Google Scholar
 ================
-[Yang Sui](https://scholar.google.com/citations?hl=en&user=Q2W1p6sAAAAJ)
+[Yang Sui's Google Scholar](https://scholar.google.com/citations?hl=en&user=Q2W1p6sAAAAJ)
 
 Selected Publications
 ================
