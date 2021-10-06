@@ -20,6 +20,6 @@ I am interested in efficient training and inference in Deep Learning. Specifical
 Recent News
 ======
 
-- 09/2021 One paper is accepted by Neural Information Processing Systems Conference (NeurIPS 2021).
-- 03/2021 One paper is accepted by ACM Intl. Symp. on Computer Architecture (ISCA 2021).
-- 02/2021 One paper is accepted by IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR 2021). 
+- 09/2021 One paper is accepted by Neural Information Processing Systems Conference (**NeurIPS 2021**).
+- 03/2021 One paper is accepted by ACM Intl. Symp. on Computer Architecture (**ISCA 2021**).
+- 02/2021 One paper is accepted by IEEE/CVF Conf. on Computer Vision and Pattern Recognition (**CVPR 2021**). 
