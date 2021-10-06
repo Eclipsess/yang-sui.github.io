@@ -26,11 +26,12 @@ Authors with $^*$ signs contribute equally to the papers.
 
 Work experience
 ======
-* 03/2018 - 12/2018: Research & Development Enginner in ##Baidu##, Inc.
-  * A founder of [Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite).
 
-* 07/2019 - 01/2020: Algorithm Engineer in ##JD.com##, Inc.
-  * Face recognition.
+* 03/2018 - 12/2018: Research & Development Enginner in <strong>Baidu, Inc</strong>.
+  * A <strong>Founder</strong> of [Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite).
+
+* 07/2019 - 01/2020: Algorithm Engineer in <strong>JD.com, Inc</strong>.
+  * Face Recognition.
   
 Teaching Assistant
 ======
