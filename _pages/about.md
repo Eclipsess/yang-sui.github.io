@@ -14,7 +14,9 @@ I’ve worked in [Baidu, Inc.](https://en.wikipedia.org/wiki/Baidu) in 2018 and 
 Research Interest
 ======
 I am interested in efficient training and inference in Deep Learning. Specifically, my research fields include:
-- Model Compression, including pruning and low-rank approximation.
+- Model Compression.
+  - Model Pruning.
+  - Low-Rank Approximation.
 - Computer Vision.
 
 Recent News
