@@ -14,14 +14,18 @@ I’ve worked in [Baidu, Inc.](https://en.wikipedia.org/wiki/Baidu) in 2018 and 
 Research Interest
 ======
 I am interested in efficient training and inference in Deep Learning. Specifically, my research fields include:
-- Model Compression.
+- Efficient Learning and Inference of Deep Neural Networks:
   - Model Pruning.
   - Low-Rank Approximation.
-- Computer Vision.
+- Computer Vision Application: 
+  - Face Recognition.
+- Deep Learning Framework:
+  - Inference Framework, Paddle-Lite.
 
 Recent News
 ======
 
+- 11/2021 Serving as Reviewer of CVPR 2022.
 - 09/2021 One paper is accepted by Neural Information Processing Systems Conference (**NeurIPS 2021**).
 - 09/2021 One paper is accepted by IEEE/ACM Intl. Conf. on Computer Aided Design (**ICCAD 2021**).
 - 03/2021 One paper is accepted by ACM Intl. Symp. on Computer Architecture (**ISCA 2021**).
