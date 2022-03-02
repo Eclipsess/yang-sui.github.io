@@ -19,6 +19,7 @@ Publications
 ======
 Authors with $^*$ signs contribute equally to the papers.
 
+* [**CVPR 2022**] M. Yin, <u>Y. Sui</u>, W. Yang, X. Zang, Y. Gong, B. Yuan, "HODEC: Towards Efficient High-Order DEcomposed Convolutional Neural Networks," Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022.
 * [**NeurIPS 2021**] <u>Y. Sui</u>, M. Yin, Y. Xie, H. Phan, S. Zonouz, B. Yuan, "CHIP: CHannel Independence-based Pruning forCompact Neural Networks', Neural Information Processing Systems (NeurIPS), 2021.
 * [**ICCAD 2021**] B. Zhang$^*$, <u>Y. Sui$^*$</u>, L. Huang, S. Liao, C. Deng and B. Yuan, “Algorithm and Hardware Co-design for Deep Learning-powered Channel Decoder: A Case Study”, IEEE/ACM Intl. Conf. on Computer Aided Design (ICCAD), 2021. 
 * [**ISCA 2021**] C. Deng, <u>Y. Sui</u>, S. Liao, X. Qian and B. Yuan, "GoSPA: An Energy-efficient High-performance Globally Optimized SParse Convolutional Neural Network Accelerator," 2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA), 2021.
@@ -28,7 +29,7 @@ Work experience
 ======
 
 * 03/2018 - 12/2018: Research & Development Enginner in <strong>Baidu, Inc</strong>.
-  * A <strong>Founder</strong> of [Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite).
+  * A <strong>Co-founder</strong> of [Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite).
 
 * 07/2019 - 01/2020: Algorithm Engineer in <strong>JD.com, Inc</strong>.
   * Face Recognition.
