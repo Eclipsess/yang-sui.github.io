@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a Ph.D. candidate in the Department of Electrical and Computer Engineering at [Rutgers University](https://newbrunswick.rutgers.edu/), advised by Prof. [Bo Yuan](https://sites.google.com/site/boyuaneecs/). I received my Bachelor degree and Master degree from Department of Electronic Science and Engineering in 2016 and 2019, respectively, both from [Jilin University](https://global.jlu.edu.cn/).
+I'm currently a Ph.D. candidate in the Department of Electrical and Computer Engineering at [Rutgers University](https://newbrunswick.rutgers.edu/), advised by Prof. [Bo Yuan](https://sites.google.com/site/boyuaneecs/). I received my Bachelor degree and Master degree from Department of Electronic Science and Engineering in 2016 and 2019 from [Jilin University](https://global.jlu.edu.cn/).
 
-I'm a research intern in the Media Lab at Tencent America from May 2022, researching on the efficient vision transformer. I was a R&D intern at [Baidu, Inc.](https://en.wikipedia.org/wiki/Baidu) as a initial contributor of [Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite). I've worked at [JD.com, Inc.](https://en.wikipedia.org/wiki/JD.com) for the face recognition and verification. 
+I'm a research intern in the Media Lab at Tencent America. I was a R&D intern at [Baidu, Inc.](https://en.wikipedia.org/wiki/Baidu) as a initial contributor of [Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite). I've worked at [JD.com, Inc.](https://en.wikipedia.org/wiki/JD.com) for the face recognition and verification. 
 
 Research Interest
 ======
