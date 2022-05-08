@@ -13,7 +13,7 @@ Education
 ======
 * B.E. in Dept. of Electronic Science and Engineering, Jilin University, 2016
 * M.S. in Dept. of Electronic Science and Engineering, Jilin University, 2019
-* Ph.D. in Dept. of Electrical and Computer Engineering, Rutgers University, now
+* Ph.D. candidate in Dept. of Electrical and Computer Engineering, Rutgers University, now
 
 Publications
 ======
@@ -27,13 +27,15 @@ Authors with $^*$ signs contribute equally to the papers.
 
 Work experience
 ======
-
-* 03/2018 - 12/2018: Research & Development Enginner in <strong>Baidu, Inc</strong>.
-  * A <strong>Co-founder</strong> of [Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite).
+* 05/2022 - Present: Research Intern in <strong>Tencent America</strong>.
+  * Efficient Vision Transoformer.
 
 * 07/2019 - 01/2020: Algorithm Engineer in <strong>JD.com, Inc</strong>.
   * Face Recognition.
   
+* 03/2018 - 12/2018: Research & Development Enginner in <strong>Baidu, Inc</strong>.
+  * Initial contributor of [Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite).
+
 Teaching Assistant
 ======
 * 2020 Fall: [14:332:351 Programming Methodology II](https://www.ece.rutgers.edu/332351)
