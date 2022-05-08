@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a Ph.D. student in the Department of Electrical and Computer Engineering at [Rutgers University](https://newbrunswick.rutgers.edu/), advised by Prof. [Bo Yuan](https://sites.google.com/site/boyuaneecs/). I received my Bachelor degree and Master degree from Department of Electronic Science and Engineering in 2016 and 2019, respectively, both from [Jilin University](https://global.jlu.edu.cn/).
+I'm currently a Ph.D. candidate in the Department of Electrical and Computer Engineering at [Rutgers University](https://newbrunswick.rutgers.edu/), advised by Prof. [Bo Yuan](https://sites.google.com/site/boyuaneecs/). I received my Bachelor degree and Master degree from Department of Electronic Science and Engineering in 2016 and 2019, respectively, both from [Jilin University](https://global.jlu.edu.cn/).
 
-I’ve on an internship at [Baidu, Inc.](https://en.wikipedia.org/wiki/Baidu) in 2018 as a initial developer and main contributor of [Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite). I‘ve also worked at [JD.com, Inc.](https://en.wikipedia.org/wiki/JD.com) in 2019.
+I'm a research intern at Media Lab at Tencent America from May 2022, working on the efficient vision transformer. I was a R&D intern at [Baidu, Inc.](https://en.wikipedia.org/wiki/Baidu) as a initial contributor of [Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite). I've worked at [JD.com, Inc.](https://en.wikipedia.org/wiki/JD.com) for the face recognition and verification. 
 
 Research Interest
 ======
@@ -18,13 +18,16 @@ I am interested in efficient training and inference in Deep Learning. Specifical
 - Efficient Learning and Inference of Deep Neural Networks:
   - Model Pruning.
   - Low-Rank Approximation.
-- Computer Vision Application: 
+  - Model Quantization.
+- Computer Vision Applications: 
   - Face Recognition.
 - Deep Learning Framework:
-  - Inference Framework, Paddle-Lite.
+  - Paddle-Lite.
 
 Recent News
 ======
+- 05/2022 I'm glad to join the Media Lab at Tencent America as a research intern.
+- 04/2022 Serving as a Reviewer of CVPR 2022 Workshop on Transformers for Vision (**CVPR 2022 Workshop**).
 - 03/2022 One paper is accepted by IEEE/CVF Conf. on Computer Vision and Pattern Recognition (**CVPR 2022**). 
 - 03/2022 Serving as a Reviewer of ECCV 2022.
 - 01/2022 Serving as a Reviewer of ICML 2022.
