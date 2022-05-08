@@ -19,7 +19,7 @@ I am interested in efficient training and inference in Deep Learning. Specifical
   - Model Pruning.
   - Low-Rank Approximation.
   - Model Quantization.
-
+- Efficient Vision Transformer.
 
 Recent News
 ======
