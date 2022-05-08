@@ -19,10 +19,7 @@ I am interested in efficient training and inference in Deep Learning. Specifical
   - Model Pruning.
   - Low-Rank Approximation.
   - Model Quantization.
-- Computer Vision Applications: 
-  - Face Recognition.
-- Deep Learning Framework:
-  - Paddle-Lite.
+
 
 Recent News
 ======
