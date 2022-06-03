@@ -23,7 +23,7 @@ I am interested in efficient training and inference in Deep Learning. Specifical
 
 Recent News
 ======
-- 05/2022 I'm glad to join the Media Lab at Tencent America as a research intern.
+- 05/2022 I'm glad to join the Media Lab at Tencent America as a Research Intern.
 - 04/2022 Serving as a Reviewer of CVPR 2022 Workshop on Transformers for Vision (CVPR 2022 Workshop).
 - 04/2022 Serving as a Reviewer of NeurIPS 2022.
 - 03/2022 One paper is accepted by IEEE/CVF Conf. on Computer Vision and Pattern Recognition (**CVPR 2022**). 
