@@ -23,6 +23,9 @@ I am interested in efficient training and inference in Deep Learning. Specifical
 
 Recent News
 ======
+- 11/2022 Two papers are accepted by AAAI Conference on Artificial Intelligence (**AAAI 2023**). 
+- 11/2022 Serving as a Reviewer of CVPR 2023.
+- 10/2022 Presenting a poster in IBM IEEE CAS/EDS – 5th AI Compute Symposium at IBM. 
 - 08/2022 Serving as a PC member of AAAI 2023.
 - 05/2022 I'm glad to join the Media Lab at Tencent America as a Research Intern.
 - 04/2022 Serving as a Reviewer of CVPR 2022 Workshop on Transformers for Vision (CVPR 2022 Workshop).
