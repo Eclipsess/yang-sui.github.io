@@ -10,7 +10,7 @@ redirect_from:
 
 I'm currently a Ph.D. candidate in the department of Electrical and Computer Engineering at [Rutgers University](https://newbrunswick.rutgers.edu/), advised by Prof. [Bo Yuan](https://sites.google.com/site/boyuaneecs/). I received my Bachelor degree and Master degree from the department of Electronic Science and Engineering in 2016 and 2019 from [Jilin University](https://global.jlu.edu.cn/).
 
-I'm a research intern in the [Media Lab](https://multimedia.tencent.com/) at [Tencent America](https://www.tencent.com/en-us/about.html). I was a R&D intern at [Baidu](https://en.wikipedia.org/wiki/Baidu) as a initial contributor of [Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite). I've worked on the face recognition and verification project at [JD](https://en.wikipedia.org/wiki/JD.com). 
+I'm a research intern in the [Media Lab](https://multimedia.tencent.com/) at [Tencent America](https://www.tencent.com/en-us/about.html). I was a R&D intern at [Baidu](https://en.wikipedia.org/wiki/Baidu) as a initial contributor of [Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) with 6.4k stars (2023.01). I've worked on the face recognition and verification project at [JD](https://en.wikipedia.org/wiki/JD.com). 
 
 Research Interest
 ======
