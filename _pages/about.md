@@ -20,21 +20,16 @@ I am interested in efficient training and inference in Deep Learning. Specifical
   - Low-Rank Approximation.
   - Model Quantization.
 - Efficient Vision Transformer.
+- Neural Image Compression.
 
 Recent News
 ======
-- 11/2022 Two papers are accepted by AAAI Conference on Artificial Intelligence (**AAAI 2023**). 
-- 11/2022 Serving as a Reviewer of CVPR 2023.
-- 10/2022 Presenting a poster in IBM IEEE CAS/EDS – 5th AI Compute Symposium at IBM. 
-- 08/2022 Serving as a PC member of AAAI 2023.
+- 02/2023 One paper won the Best Paper Runner-Up Award at AAAI'23 DCAA Workshop(**AAAI 2023**).
+- 11/2022 Two papers were accepted with oral presentation by AAAI Conference on Artificial Intelligence (**AAAI 2023**). 
+- 10/2022 Presented a poster in IBM IEEE CAS/EDS – 5th AI Compute Symposium at IBM. 
 - 05/2022 I'm glad to join the Media Lab at Tencent America as a Research Intern.
-- 04/2022 Serving as a Reviewer of CVPR 2022 Workshop on Transformers for Vision (CVPR 2022 Workshop).
-- 04/2022 Serving as a Reviewer of NeurIPS 2022.
-- 03/2022 One paper is accepted by IEEE/CVF Conf. on Computer Vision and Pattern Recognition (**CVPR 2022**). 
-- 03/2022 Serving as a Reviewer of ECCV 2022.
-- 01/2022 Serving as a Reviewer of ICML 2022.
-- 11/2021 Serving as a Reviewer of CVPR 2022.
-- 09/2021 One paper is accepted by Neural Information Processing Systems Conference (**NeurIPS 2021**).
-- 09/2021 One paper is accepted by IEEE/ACM Intl. Conf. on Computer Aided Design (**ICCAD 2021**).
-- 03/2021 One paper is accepted by ACM Intl. Symp. on Computer Architecture (**ISCA 2021**).
-- 02/2021 One paper is accepted by IEEE/CVF Conf. on Computer Vision and Pattern Recognition (**CVPR 2021**). 
+- 03/2022 One paper was accepted by IEEE/CVF Conf. on Computer Vision and Pattern Recognition (**CVPR 2022**). 
+- 09/2021 One paper was accepted by Neural Information Processing Systems Conference (**NeurIPS 2021**).
+- 09/2021 One paper was accepted by IEEE/ACM Intl. Conf. on Computer Aided Design (**ICCAD 2021**).
+- 03/2021 One paper was accepted by ACM Intl. Symp. on Computer Architecture (**ISCA 2021**).
+- 02/2021 One paper was accepted by IEEE/CVF Conf. on Computer Vision and Pattern Recognition (**CVPR 2021**). 
