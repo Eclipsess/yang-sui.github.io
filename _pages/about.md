@@ -24,6 +24,7 @@ I am interested in efficient training and inference in Deep Learning. Specifical
 
 Recent News
 ======
+- 02/2023 One paper is accepted by IEEE/ACM Design Automation Conference (**DAC 2023**).
 - 02/2023 One paper won the Best Paper Runner-Up Award at AAAI'23 DCAA Workshop (**AAAI 2023**).
 - 11/2022 Two papers were accepted with oral presentation by AAAI Conference on Artificial Intelligence (**AAAI 2023**). 
 - 10/2022 Presented a poster in IBM IEEE CAS/EDS – 5th AI Compute Symposium at IBM. 
